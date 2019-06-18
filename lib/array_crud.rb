@@ -1,8 +1,8 @@
 def create_an_empty_array
-  myArray = []
+  myArray = ["dog", "cat", "puppy", "kitten"]
 end
 
-def create_an_array
+def create_an_array(arr, element)
   
 end
 
